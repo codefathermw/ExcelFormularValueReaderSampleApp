@@ -8,7 +8,7 @@ The Excel Formula Value Reader Sample App demostrates how to extract and evaluat
 
 1. **Clone the repository**:
    ```
-   git clone https://github.com/yourusername/excel-formula-value-reader.git
+   git clone https://github.com/codefathermw/ExcelFormularValueReaderSampleApp.git
    ```
 2. **Install dependencies**:
    ```
