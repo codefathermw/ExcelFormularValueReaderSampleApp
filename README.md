@@ -1,2 +1,2 @@
 # ExcelFormularValueReaderSampleApp
-Read excel files with formats.
+Read excel files with formulas.
