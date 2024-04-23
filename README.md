@@ -14,10 +14,6 @@ The Excel Formula Value Reader Sample App demostrates how to extract and evaluat
    ```
    npm install
    ```
-3. **Run the application**:
-   ```
-   npm start
-   ```
 
 ## Contributing
 
